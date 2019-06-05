@@ -1,0 +1,1485 @@
+fileFormatVersion: 2
+guid: c63800b8c2ed2134ab88edce4a8e3faa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: general_road_signs_a_0
+    21300002: general_road_signs_a_1
+    21300004: general_road_signs_a_2
+    21300006: general_road_signs_a_3
+    21300008: general_road_signs_a_4
+    21300010: general_road_signs_a_5
+    21300012: general_road_signs_a_6
+    21300014: general_road_signs_a_7
+    21300016: general_road_signs_a_8
+    21300018: general_road_signs_a_9
+    21300020: general_road_signs_a_10
+    21300022: general_road_signs_a_11
+    21300024: general_road_signs_a_12
+    21300026: general_road_signs_a_13
+    21300028: general_road_signs_a_14
+    21300030: general_road_signs_a_15
+    21300032: general_road_signs_a_16
+    21300034: general_road_signs_a_17
+    21300036: general_road_signs_a_18
+    21300038: general_road_signs_a_19
+    21300040: general_road_signs_a_20
+    21300042: general_road_signs_a_21
+    21300044: general_road_signs_a_22
+    21300046: general_road_signs_a_23
+    21300048: general_road_signs_a_24
+    21300050: general_road_signs_a_25
+    21300052: general_road_signs_a_26
+    21300054: general_road_signs_a_27
+    21300056: general_road_signs_a_28
+    21300058: general_road_signs_a_29
+    21300060: general_road_signs_a_30
+    21300062: general_road_signs_a_31
+    21300064: general_road_signs_a_32
+    21300066: general_road_signs_a_33
+    21300068: general_road_signs_a_34
+    21300070: general_road_signs_a_35
+    21300072: general_road_signs_a_36
+    21300074: general_road_signs_a_37
+    21300076: general_road_signs_a_38
+    21300078: general_road_signs_a_39
+    21300080: general_road_signs_a_40
+    21300082: general_road_signs_a_41
+    21300084: general_road_signs_a_42
+    21300086: general_road_signs_a_43
+    21300088: general_road_signs_a_44
+    21300090: general_road_signs_a_45
+    21300092: general_road_signs_a_46
+    21300094: general_road_signs_a_47
+    21300096: general_road_signs_a_48
+    21300098: general_road_signs_a_49
+    21300100: general_road_signs_a_50
+    21300102: general_road_signs_a_51
+    21300104: general_road_signs_a_52
+    21300106: general_road_signs_a_53
+    21300108: general_road_signs_a_54
+    21300110: general_road_signs_a_55
+    21300112: general_road_signs_a_56
+    21300114: general_road_signs_a_57
+    21300116: general_road_signs_a_58
+    21300118: general_road_signs_a_59
+    21300120: general_road_signs_a_60
+    21300122: general_road_signs_a_61
+    21300124: general_road_signs_a_62
+    21300126: general_road_signs_a_63
+    21300128: general_road_signs_a_64
+    21300130: general_road_signs_a_65
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: general_road_signs_a_0
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 3020
+        width: 555
+        height: 543
+      alignment: 9
+      pivot: {x: 0.5250094, y: 0.4750373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5291e6e353199448aabae9952202689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3559
+        width: 526
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f421e0ff26ca545b97bbd37779a157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3559
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b3a48bd10021469f6bf1b7dd843d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_3
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3557
+        width: 532
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df861c40adc9ec746891fb14c1c7fbb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_4
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3559
+        width: 528
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6038f83ab045864bafde1eef386f479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_5
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 3559
+        width: 530
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a5a7e382a58445ad183a7d8bfaee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_6
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 3691
+        width: 398
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed4170497134d469e9211b3a38ff80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_7
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 3725
+        width: 480
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1a2f937a76464a8d761c9a0ad420b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3071
+        width: 602
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156b5c639b4c2945acb1365821eeb0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3069
+        width: 771
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7500afa85155b44bdff8ef83bb9a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_10
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3000
+        width: 550
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbaf1340f7405541b29e623f2df4070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_11
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3015
+        width: 596
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc166151badb684eaadd4708ea56a82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_12
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3007
+        width: 604
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd22d50dbd35634b99272c8ece544ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_13
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 3165
+        width: 249
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039bbee761659b41b8c4bcc4f1983e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_14
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 3173
+        width: 388
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107803bc2688ab4e9916cfc459a0142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_15
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 3309
+        width: 209
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114c5594e8b434c4d8c36de76f634935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_16
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 3296
+        width: 276
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d745db9c3e887a47ab4511a91fd84fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2424
+        width: 516
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b39f9a32242b40941ccd16d4516fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_18
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2369
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a864c76d9905049ac746abb4d9713a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_19
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2621
+        width: 588
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2817b32b54801347bb35ef05b91c93b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_20
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2575
+        width: 288
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94baf1c64ccd8864a93542d7b324b77b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_21
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2624
+        width: 416
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa92cd134de364186704993c9c4791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_22
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 2527
+        width: 395
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317ba91a70d03c4593336ea52e5072b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_23
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2783
+        width: 236
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757251855648b104fa9a8734179e96b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_24
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2895
+        width: 409
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0ea3e4127260448ad3e3e867d85c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_25
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 2871
+        width: 284
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95ee143da711f47973d8ad33137e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2071
+        width: 683
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9eff870e36f554884d2ce2fd4f6d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2064
+        width: 371
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61bd018988c8d0428f7dfc426a2803e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_28
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2065
+        width: 443
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c439e889382d419644db84041fe6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_29
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2111
+        width: 419
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316417aea114c84698c0200a5c7ce11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_30
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 2121
+        width: 412
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce2fbbd9263e442b1cc742001fc393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_31
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2112
+        width: 299
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8bf3dad5e96f4fb2058163b29819c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_32
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2046
+        width: 388
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc2541a313b304ab277b4848ea0f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1512
+        width: 529
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35223535bad812d48aa86d264005384a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1511
+        width: 526
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511d3e095cbae84d9f5a9f36db3df16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_35
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1511
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e742644c1079c4d9c95355cf2db04d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_36
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1509
+        width: 532
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2a0ef7e528c3488fb444b298d5998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_37
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 1511
+        width: 528
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8567b7dc699a843a8e238637d0a856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_38
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1511
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cbf8d89c82a8f439af7d386ba0f3c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_39
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1643
+        width: 398
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818dc306f181faa42ba4df136f4c72ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_40
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 1677
+        width: 480
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253810716d7d12e4a99a560b1c8273f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1023
+        width: 602
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2be3359be5e304d970425edd61250a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1021
+        width: 771
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb96e0d21074fb84eb7f176ef2894f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_43
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 952
+        width: 550
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd519f1cceecc448b0cac35b06844cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_44
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 967
+        width: 596
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a9cc6ccbb8fd41946303d9b87bf47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_45
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 959
+        width: 604
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a936954e65052469cf737d2644e298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_46
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1117
+        width: 249
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b3ca527ba0294cab7e7869e3e4e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_47
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1125
+        width: 388
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91e307ea1b920548b5df83dd68533d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_48
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1261
+        width: 209
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee1b4946b8b26141807eb64be640f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_49
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 1248
+        width: 276
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67542e01dd715014988fb5153e0539d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 376
+        width: 516
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572b4dd17e0a304196e19f599d7253c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_51
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 321
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d12eb2f135631429fa138450043953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_52
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 573
+        width: 588
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be758a26e88f444d9bcdaa16458b3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_53
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 527
+        width: 288
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce5b31abc6b06478538617936af842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_54
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 576
+        width: 416
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3f789a022ba44397bde60aa02e529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_55
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 479
+        width: 395
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6a68ccdde2f34f804af18f10a0003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_56
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 735
+        width: 236
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4208cdcefd0f478492c10a8ad3fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_57
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 847
+        width: 409
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30a41c60310ec40807212e944122f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_58
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 823
+        width: 284
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09afa82dd5e7341bd6879f1e1f9dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 683
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb67c9d6e7308a46b45bb75ec4ae415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_60
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 16
+        width: 371
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109f36dfab19154f9b3739756a1fcc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_61
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 17
+        width: 443
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565871a815a5d748bdee2fca05746b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_62
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 63
+        width: 419
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5f6dbf9764769458f2830f6d74942e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_63
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 73
+        width: 412
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95169a292b4ab0440a58cddf459bfa3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_64
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 64
+        width: 299
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f00baaac159144a9ee191de614c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: general_road_signs_a_65
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 0
+        width: 388
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c65c69b37d8994995a1e4dfe029023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 247ea146a9477e446a00a822b249b5bf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
